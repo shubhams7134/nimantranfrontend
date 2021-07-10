@@ -12,6 +12,8 @@
  #### username and password:test@123
  [LIVE LINK](https://nimantranfrontend.vercel.app/)
 
+## STRAPI Backend Repository link
+[GITHUB REPO](https://github.com/shubhams7134/nimantran_backend)
 
 
 ### Run the Server after cloning
