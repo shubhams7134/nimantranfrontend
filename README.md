@@ -1,5 +1,6 @@
 
 # Nimantran-[LIVE LINK](https://nimantranfrontend.vercel.app/)
+### (For trial :: username and password:test@123)
 ## Every invited guest is a click away
  Next.js invitation website for upcoming Events. 
  This site uses Strapi as a backend. 
